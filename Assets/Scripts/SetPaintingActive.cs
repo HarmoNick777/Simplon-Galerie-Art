@@ -10,9 +10,4 @@ public class SetPaintingActive : MonoBehaviour
     {
         painting.SetActive(true);
     }
-
-    void Update()
-    {
-        
-    }
 }
